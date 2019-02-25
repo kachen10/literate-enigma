@@ -1,1 +1,1 @@
-# literate-enigma
+# Game of Pong
